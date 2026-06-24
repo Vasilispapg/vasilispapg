@@ -56,7 +56,7 @@
 | **Project** | **What it does** | **Stack** |
 |:---|:---|:---|
 | 🔍 **[Open-Source Compliance Cockpit](https://github.com/Vasilispapg/License-Identificator-for-GitHub-Repos)** | **(Thesis)** Analyzes any GitHub repo for license conflicts, dependency risk, and compliance issues. Live SCA engine with visual reports. → [licensecheck.vspapg.gr](https://licensecheck.vspapg.gr) | `React` `TypeScript` `Node.js` `Docker` |
-| 🧬 **[PhyloFlask](https://github.com/Vasilispapg)** | **(Publication)** Interactive visualization of large phylogenetic datasets. | `Bioinformatics` `Flask` |
+| 🧬 **[PhyloFlask](https://github.com/Vasilispapg/Phylogenetic-Profiling)** | **(Publication)** Interactive visualization of large phylogenetic datasets. | `Bioinformatics` `Flask` |
 | 🎥 **[CVML-UMVS](https://github.com/Vasilispapg/CVML-UMVS)** | Automatic video summarization — because nobody has time for 2-hour meetings. | `PyTorch` `Transformers` |
 | 🎵 **[Discord-Bot](https://github.com/Vasilispapg/Discord-FilePlaying-Bot)** | Plays music files in Discord. DJ duties, fully automated. | `Python` `Discord.py` |
 | 🧠 **Γνώστης — Greek Quiz Game** | Full mobile quiz game in Greek — multiplayer up to 6 players, ranked 1v1 with Elo trophies, XP/gems/achievements, AI-generated questions, power-ups, and social friends features. [App Store](https://apps.apple.com/gr/app/%CE%B3%CE%BD%CF%8E%CF%83%CF%84%CE%B7%CF%82/id6773646188) · [Google Play](https://play.google.com/store/apps/details?id=com.vspapg.gnostis) | `React Native` `Expo` `FastAPI` `PostgreSQL` `Redis` `OpenAI` |
