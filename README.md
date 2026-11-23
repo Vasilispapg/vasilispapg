@@ -16,10 +16,12 @@ Backend-leaning full-stack engineer with an MSc in Artificial Intelligence. I sh
 - **[Γνώστης](https://gnostis.vspapg.gr)**: Greek trivia game with multiplayer, ranked 1v1 and AI-generated questions. **Live on the [App Store](https://apps.apple.com/gr/app/%CE%B3%CE%BD%CF%8E%CF%83%CF%84%CE%B7%CF%82/id6773646188) and [Google Play](https://play.google.com/store/apps/details?id=com.vspapg.gnostis).** React Native · FastAPI · PostgreSQL · Redis
 - **[LicenseScan](https://licensecheck.vspapg.gr)**: finds license conflicts and dependency risk in any public GitHub repo, across 8 package ecosystems. My BSc thesis, now live. [Code](https://github.com/Vasilispapg/License-Identificator-for-GitHub-Repos) · React · TypeScript · Node.js
 
-### Research
+### Education & research
 
-- **[PhyloFlask](https://github.com/Vasilispapg/PhyloFlask)**: visualizes phylogenetic profiles across tens of thousands of genomes. Presented at **Hellenic Bioinformatics 16** (May 2025). [Abstract](https://f1000research-files.f1000.com/posters/compressed/f1000research-728675.pdf) · Flask · D3
-- **[CVML-UMVS](https://github.com/Vasilispapg/CVML-UMVS)**: unsupervised multi-modal video summarization. PyTorch · Transformers
+- **MSc in Artificial Intelligence**, Aristotle University of Thessaloniki
+  - Thesis: **[PhyloFlask](https://github.com/Vasilispapg/PhyloFlask)**, a framework that visualizes phylogenetic profiles across tens of thousands of genomes, built with the BCCB Group (C. A. Ouzounis). Presented at **Hellenic Bioinformatics 16** (May 2025). [Abstract](https://f1000research-files.f1000.com/posters/compressed/f1000research-728675.pdf) · Flask · D3
+  - **[CVML-UMVS](https://github.com/Vasilispapg/CVML-UMVS)**: unsupervised multi-modal video summarization. PyTorch · Transformers
+- **BSc in Informatics & Telecommunications**, University of Peloponnese. Thesis: LicenseScan, now a live product (above).
 
 ### Open source
 
