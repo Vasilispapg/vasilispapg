@@ -13,7 +13,7 @@ Backend-leaning full-stack engineer with an MSc in Artificial Intelligence. I sh
 - **[eSymvoulos](https://esymvoulos.gr)**: CRM and automation for accounting and consulting offices. It pulls client data from six Greek government systems (ΑΑΔΕ, ΕΡΓΑΝΗ, ΓΕΜΗ, ΟΠΣΚΕ, eSorefsis, myDATA) and checks which funding programs each client qualifies for. FastAPI · PostgreSQL · RabbitMQ · Ray · Playwright
 - **[GoFleet](https://gofleet.gr)**: platform for tourism businesses, with booking and operations software for rent-a-car, transfers, taxis and boats, plus booking sites and a driver app.
 - **[Standee](https://standee.gr)**: directory of Greek software and SaaS. Every listing shows what it solves, what it costs and where the data comes from. FastAPI · PostgreSQL + pgvector
-- **[Γνώστης](https://apps.apple.com/gr/app/%CE%B3%CE%BD%CF%8E%CF%83%CF%84%CE%B7%CF%82/id6773646188)**: Greek trivia game with multiplayer, ranked 1v1 and AI-generated questions. **Live on the App Store and [Google Play](https://play.google.com/store/apps/details?id=com.vspapg.gnostis).** React Native · FastAPI · PostgreSQL · Redis
+- **[Γνώστης](https://gnostis.vspapg.gr)**: Greek trivia game with multiplayer, ranked 1v1 and AI-generated questions. **Live on the [App Store](https://apps.apple.com/gr/app/%CE%B3%CE%BD%CF%8E%CF%83%CF%84%CE%B7%CF%82/id6773646188) and [Google Play](https://play.google.com/store/apps/details?id=com.vspapg.gnostis).** React Native · FastAPI · PostgreSQL · Redis
 - **[LicenseScan](https://licensecheck.vspapg.gr)**: finds license conflicts and dependency risk in any public GitHub repo, across 8 package ecosystems. My BSc thesis, now live. [Code](https://github.com/Vasilispapg/License-Identificator-for-GitHub-Repos) · React · TypeScript · Node.js
 
 ### Research
